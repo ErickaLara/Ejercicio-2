@@ -3,22 +3,22 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 h1 {
     font-size: 50px;
-    color: #F3F2C9;
+    color: #52006A;
     font-family: 'Lobster', cursive;
     margin:20px;
-    background-color: #FF67E7;
+    background-color: #D62AD0;
   }
   .asking {
      margin:20px;
   }
   .answer_contianer{
-    background-color: #FFFFE0;
+    background-color: #FFBCBC;
     font-size:25px;
     font-weight: bold;
     font-family: 'Otomanopee One', sans-serif;
     padding:20px;
     border-left: 10px solid #F3F2C9;
-    border-color: #DCDCDC;
+    border-color: #52006A;
     margin: 20px;
   
   }
@@ -33,8 +33,9 @@ h1 {
     font-size:25px;
     font-family: 'Otomanopee One', sans-serif;
     padding:20px;
-    border-left: 10px solid #F3F2C9;
-    border-color: #DCDCDC;
+    border-left: 10px solid #52006A;
+    border-color: #52006A;
+    background-color: #FFBCBC;
     margin: 20px;
   }
   .example {
@@ -44,7 +45,7 @@ h1 {
     border: 1px solid #716F81;
     float: left;
     width: 70%;
-    background: white;
+    background: #FBC7F7;
     border-radius: 5px;
     margin: 0 0 0 20px ;
   }
